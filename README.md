@@ -1,4 +1,4 @@
-# 📊 Power BI Portfolio  
+# 📊 Power BI Project
 
 This repository contains real-world Power BI projects showcasing dashboard design, data modeling, and interactive analytics.  
 
