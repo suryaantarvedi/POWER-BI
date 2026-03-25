@@ -4,7 +4,7 @@ This repository contains real-world Power BI projects showcasing dashboard desig
 
 ### 🚀 Business Performance Dashboard  
 
-An interactive dashboard project built in Power BI to analyze company-wide sales, shipments, and profitability.  
+An interactive Power BI dashboard built on a chocolate industry dataset to analyze company‑wide sales, shipments, and profitability
 
 It includes:  
 - 🎨 **Design & Layout**: Custom visuals, color theme, and recruiter-ready formatting  
