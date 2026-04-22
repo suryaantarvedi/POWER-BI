@@ -23,12 +23,11 @@ It includes:
 
 An interactive Power BI dashboard built on a grocery retail dataset (10,000 transactions across 10 cities in India) to analyze sales, discounts, and customer behavior.
 It includes:
+- 🧹 **Data Cleaning**: Python preprocessing (duplicates, missing values, outliers)
 
-🧹 Data Cleaning: Python preprocessing (duplicates, missing values, outliers)
+- 📊 **KPIs & Measures**: Revenue, Transactions, Avg Transaction Value, Discount Impact
 
-📊 KPIs & Measures: Revenue, Transactions, Avg Transaction Value, Discount Impact
-
-🔍 Visuals & Charts:
+- 🔍 **Visuals & Charts**:
 
 Discount loss by category
 
