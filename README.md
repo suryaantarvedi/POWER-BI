@@ -28,15 +28,10 @@ It includes:
 - 📊 **KPIs & Measures**: Revenue, Transactions, Avg Transaction Value, Discount Impact
 
 - 🔍 **Visuals & Charts**:
+   - Discount loss by category
+   - Revenue vs quantity by discount %
+   - Age group contribution by category
+   - Payment method distribution
+   - Top/bottom 10 stores with geographic map
 
-Discount loss by category
-
-Revenue vs quantity by discount %
-
-Age group contribution by category
-
-Payment method distribution
-
-Top/bottom 10 stores with geographic map
-
-🎛️ Interactivity: Slicers for Month, City, Age Group, Store; drill‑through for detailed analysis
+- 🎛️ **Interactivity**: Slicers for Month, City, Age Group, Store; drill‑through for detailed analysis
