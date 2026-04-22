@@ -19,3 +19,24 @@ It includes:
 - 🎛️ **Interactivity**: Slicers for dynamic filtering (date, product, region), drilldowns for detail exploration  
 - 🖼️ **Dynamic Insights**: Conditional formatting to highlight top performers and underperforming products  
 
+🛒 Grocery Sales Analytics Project
+An interactive Power BI dashboard built on a grocery retail dataset (10,000 transactions across 10 cities in India) to analyze sales, discounts, and customer behavior.
+It includes:
+
+🧹 Data Cleaning: Python preprocessing (duplicates, missing values, outliers)
+
+📊 KPIs & Measures: Revenue, Transactions, Avg Transaction Value, Discount Impact
+
+🔍 Visuals & Charts:
+
+Discount loss by category
+
+Revenue vs quantity by discount %
+
+Age group contribution by category
+
+Payment method distribution
+
+Top/bottom 10 stores with geographic map
+
+🎛️ Interactivity: Slicers for Month, City, Age Group, Store; drill‑through for detailed analysis
