@@ -2,7 +2,7 @@
 
 This repository contains real-world Power BI projects showcasing dashboard design, data modeling, and interactive analytics.  
 
-### 🚀 Business Performance Dashboard  
+### 🚀 **Chocolate Sales Analysis**
 
 An interactive Power BI dashboard built on a chocolate industry dataset to analyze company‑wide sales, shipments, and profitability
 
@@ -19,7 +19,7 @@ It includes:
 - 🎛️ **Interactivity**: Slicers for dynamic filtering (date, product, region), drilldowns for detail exploration  
 - 🖼️ **Dynamic Insights**: Conditional formatting to highlight top performers and underperforming products  
 
-### **🛒 Grocery Sales Analytics Project**
+### **🛒 Grocery Sales Analysis**
 
 An interactive Power BI dashboard built on a grocery retail dataset (10,000 transactions across 10 cities in India) to analyze sales, discounts, and customer behavior.
 It includes:
